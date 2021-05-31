@@ -1,0 +1,223 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.8f1 (507919d4fff5) revision 5273881'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'pt' Physical Memory: 6020 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Allan/Documents/UnityProjects/Unity-NativeWebSocket-Client
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50681
+Successfully changed project path to: C:/Users/Allan/Documents/UnityProjects/Unity-NativeWebSocket-Client
+C:/Users/Allan/Documents/UnityProjects/Unity-NativeWebSocket-Client
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 59.00 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Allan/Documents/UnityProjects/Unity-NativeWebSocket-Client/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Vega 8 Graphics (ID=0x15d8)
+    Vendor:   
+    VRAM:     3010 MB
+    Driver:   26.20.14046.3
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56324
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002776 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 64.77 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.715 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002864 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 66.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.422 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2606 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 119.4 MB.
+System memory in use after: 119.5 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3045.
+Total: 3.923300 ms (FindLiveObjects: 0.399200 ms CreateObjectMapping: 0.123600 ms MarkObjects: 3.259300 ms  DeleteObjects: 0.139000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/TilesBase_Normal.png
+  artifactKey: Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase_Normal.png using Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '301ad3e97e629851b85cee40242717bc') in 0.677751 seconds
+  Import took 0.732399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 168.899644 seconds.
+  path: Assets/TilesBase_Normal.png
+  artifactKey: Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase_Normal.png using Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cb4f36b66b9c9384f7fc95b50104242') in 0.146526 seconds
+  Import took 0.165638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 128.667400 seconds.
+  path: Assets/TilesBase.png
+  artifactKey: Guid(9702edc830898e44ea54b11079352397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase.png using Guid(9702edc830898e44ea54b11079352397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1970c0ba5d7323cfe5e942de68a7dba6') in 0.062310 seconds
+  Import took 0.072145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.911468 seconds.
+  path: Assets/TilesBase_Normal.png
+  artifactKey: Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase_Normal.png using Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be46a3f08fa67c80a414457c1c55f33') in 0.013569 seconds
+  Import took 0.031524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.627555 seconds.
+  path: Assets/TilesBase_Normal.png
+  artifactKey: Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase_Normal.png using Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4e7c77ef75419990f8be1b321489dd1') in 0.059392 seconds
+  Import took 0.076954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 133.127208 seconds.
+  path: Assets/TileBase.tsx
+  artifactKey: Guid(c4e1614be1812da489415fb39bf2e5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileBase.tsx using Guid(c4e1614be1812da489415fb39bf2e5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee55c2aa2db266e961af21d86c21771') in 0.142853 seconds
+  Import took 0.161649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 208.540614 seconds.
+  path: Assets/TilesBase.png
+  artifactKey: Guid(9702edc830898e44ea54b11079352397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase.png using Guid(9702edc830898e44ea54b11079352397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c703510ec9a0d0ed9b2f5ec3b2c90294') in 0.036365 seconds
+  Import took 0.056592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.409019 seconds.
+  path: Assets/TilesBase_Normal.png
+  artifactKey: Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase_Normal.png using Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3192d28a74c6a844d0d320608335fe7e') in 0.019263 seconds
+  Import took 0.037288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.848606 seconds.
+  path: Assets/SuperTiled2Unity
+  artifactKey: Guid(cd8156afd89835f4babd5164abf7ed86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SuperTiled2Unity using Guid(cd8156afd89835f4babd5164abf7ed86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9efb49cf1b16efd43d23b3b3b53feb4c') in 0.013818 seconds
+  Import took 0.026007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 124.104554 seconds.
+  path: Assets/TileBase.tsx
+  artifactKey: Guid(c4e1614be1812da489415fb39bf2e5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileBase.tsx using Guid(c4e1614be1812da489415fb39bf2e5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df6a98d528ceaea7e80bfbf6ebdd217f') in 0.033155 seconds
+  Import took 0.054283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 235.738243 seconds.
+  path: Assets/TilesBase.png
+  artifactKey: Guid(9702edc830898e44ea54b11079352397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase.png using Guid(9702edc830898e44ea54b11079352397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44050f67771f334dd9fbd1b743926771') in 0.018236 seconds
+  Import took 0.037437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.639540 seconds.
+  path: Assets/TilesBase.png
+  artifactKey: Guid(9702edc830898e44ea54b11079352397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase.png using Guid(9702edc830898e44ea54b11079352397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27428e53e73565ed00091eb12a3b7026') in 0.083378 seconds
+  Import took 0.102107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.376103 seconds.
+  path: Assets/TilesBase_Normal.png
+  artifactKey: Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase_Normal.png using Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'effc7b337f0d791d354082f5681783ac') in 0.028960 seconds
+  Import took 0.046083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.482857 seconds.
+  path: Assets/TilesBase_Normal.png
+  artifactKey: Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase_Normal.png using Guid(ab1e77e2dde016a48a8d057432e29350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948531bcf570a4804bf1c4a2a0a03fe4') in 0.078881 seconds
+  Import took 0.097330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.033061 seconds.
+  path: Assets/TileBase.tsx
+  artifactKey: Guid(c4e1614be1812da489415fb39bf2e5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileBase.tsx using Guid(c4e1614be1812da489415fb39bf2e5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f10571faf6ce9801d3654206b8f5414') in 0.037523 seconds
+  Import took 0.058157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001933 seconds.
+  path: Assets/TileBase.tsx
+  artifactKey: Guid(c4e1614be1812da489415fb39bf2e5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileBase.tsx using Guid(c4e1614be1812da489415fb39bf2e5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f10571faf6ce9801d3654206b8f5414') in 0.043480 seconds
+  Import took 0.063100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.726814 seconds.
+  path: Assets/TilesBase.png
+  artifactKey: Guid(9702edc830898e44ea54b11079352397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TilesBase.png using Guid(9702edc830898e44ea54b11079352397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '710a3d8d44991cfe6c60867b835221d3') in 0.072769 seconds
+  Import took 0.093478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.181990 seconds.
+  path: Assets/TileBase.tsx
+  artifactKey: Guid(c4e1614be1812da489415fb39bf2e5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileBase.tsx using Guid(c4e1614be1812da489415fb39bf2e5db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cfd7c1cea2be92c7e8e43ca668b91e') in 0.044945 seconds
+  Import took 0.064230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.630084 seconds.
+  path: Assets/TileBase.tmx
+  artifactKey: Guid(c26066bee3266484ab110afff550a86b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileBase.tmx using Guid(c26066bee3266484ab110afff550a86b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb2584831f0d37248b90db62793e63d4') in 0.025027 seconds
+  Import took 0.042699 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
